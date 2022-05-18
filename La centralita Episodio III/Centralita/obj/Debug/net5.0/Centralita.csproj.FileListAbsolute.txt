@@ -1,0 +1,24 @@
+C:\Users\Administrator\source\repos\ejerciciosCsharp\CentralTelefonica\Centralita\obj\Debug\net5.0\Centralita.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\ejerciciosCsharp\CentralTelefonica\Centralita\obj\Debug\net5.0\Centralita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ejerciciosCsharp\CentralTelefonica\Centralita\obj\Debug\net5.0\Centralita.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ejerciciosCsharp\CentralTelefonica\Centralita\obj\Debug\net5.0\Centralita.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ejerciciosCsharp\CentralTelefonica\Centralita\obj\Debug\net5.0\Centralita.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ejerciciosCsharp\CentralTelefonica\Centralita\bin\Debug\net5.0\Centralita.deps.json
+C:\Users\Administrator\source\repos\ejerciciosCsharp\CentralTelefonica\Centralita\bin\Debug\net5.0\Centralita.dll
+C:\Users\Administrator\source\repos\ejerciciosCsharp\CentralTelefonica\Centralita\bin\Debug\net5.0\Centralita.pdb
+C:\Users\Administrator\source\repos\ejerciciosCsharp\CentralTelefonica\Centralita\obj\Debug\net5.0\Centralita.dll
+C:\Users\Administrator\source\repos\ejerciciosCsharp\CentralTelefonica\Centralita\obj\Debug\net5.0\refint\Centralita.dll
+C:\Users\Administrator\source\repos\ejerciciosCsharp\CentralTelefonica\Centralita\obj\Debug\net5.0\Centralita.pdb
+C:\Users\Administrator\source\repos\ejerciciosCsharp\CentralTelefonica\Centralita\obj\Debug\net5.0\ref\Centralita.dll
+C:\Users\Administrator\source\repos\ejerciciosCsharp\La centralita Episodio II\Centralita\bin\Debug\net5.0\Centralita.deps.json
+C:\Users\Administrator\source\repos\ejerciciosCsharp\La centralita Episodio II\Centralita\bin\Debug\net5.0\Centralita.dll
+C:\Users\Administrator\source\repos\ejerciciosCsharp\La centralita Episodio II\Centralita\bin\Debug\net5.0\Centralita.pdb
+C:\Users\Administrator\source\repos\ejerciciosCsharp\La centralita Episodio II\Centralita\obj\Debug\net5.0\Centralita.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\ejerciciosCsharp\La centralita Episodio II\Centralita\obj\Debug\net5.0\Centralita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ejerciciosCsharp\La centralita Episodio II\Centralita\obj\Debug\net5.0\Centralita.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ejerciciosCsharp\La centralita Episodio II\Centralita\obj\Debug\net5.0\Centralita.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ejerciciosCsharp\La centralita Episodio II\Centralita\obj\Debug\net5.0\Centralita.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ejerciciosCsharp\La centralita Episodio II\Centralita\obj\Debug\net5.0\Centralita.dll
+C:\Users\Administrator\source\repos\ejerciciosCsharp\La centralita Episodio II\Centralita\obj\Debug\net5.0\refint\Centralita.dll
+C:\Users\Administrator\source\repos\ejerciciosCsharp\La centralita Episodio II\Centralita\obj\Debug\net5.0\Centralita.pdb
+C:\Users\Administrator\source\repos\ejerciciosCsharp\La centralita Episodio II\Centralita\obj\Debug\net5.0\ref\Centralita.dll
